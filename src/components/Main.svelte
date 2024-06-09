@@ -59,7 +59,7 @@
                 My favorite tech includes <span class="text-green-400"><a href="https://www.manim.community/">  Manim</a></span>, <span class="text-green-400"><a href="https://svelte.dev/">  Svelte</a></span>, <span class="text-green-400"><a href="https://www.pygame.org/news">  Pygame</a></span>, & <span class="text-green-400"><a href="https://www.tensorflow.org/">  Tensorflow</a></span>!
             </p>
             <button
-                class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950"
+                class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-green-950"
             >
                 <div
                     class="absolute top-0 right-full w-full h-full bg-green-400 opacity-20 group-hover:translate-x-full z-0 duration-500"
@@ -172,7 +172,7 @@
                 </div> -->
                 <div class="flex gap-6 sm:gap-8">
                     <p
-                        class="poppins text-4xl sm:text-5xl md:text-6xl text-slate-500 font-semibold"
+                        class="poppins text-4xl sm:text-5xl md:text-6xl text-green-500 font-semibold"
                     >
                         0{index + 1}
                     </p>
