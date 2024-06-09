@@ -55,7 +55,7 @@
                 <br />Robotics
                 <span class="poppins text-green-400">Enthusiast</span>
             </h2>
-            <p class="text-base sm:text-lg md:text-xl">https://www.manim.community/
+            <p class="text-base sm:text-lg md:text-xl">
                 My favorite tech includes <span class="text-green-400"><a href="https://www.manim.community/">  Manim</a></span>, <span class="text-green-400"><a href="https://svelte.dev/">  Svelte</a></span>, <span class="text-green-400"><a href="https://www.pygame.org/news">  Pygame</a></span>, & <span class="text-green-400"><a href="https://www.tensorflow.org/">  Tensorflow</a></span>!
             </p>
             <button
