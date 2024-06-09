@@ -51,20 +51,18 @@
             class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10"
         >
             <h2 class="font-semibold text-4xl sm:text-5xl md:text-6xl">
-                Hi! I'm <span class="poppins text-violet-400">Samuel</span> Oak
-                <br />Full Stack
-                <span class="poppins text-violet-400">Developer</span>
+                Hi! I'm <span class="poppins text-green-400">Pranav</span> Gundu
+                <br />Robotics
+                <span class="poppins text-green-400">Enthusiast</span>
             </h2>
-            <p class="text-base sm:text-lg md:text-xl">
-                My <span class="text-violet-400"> favorite tech</span> includes JavaScript
-                (NEXT.JS or SvelteKit), TailwindCSS, Node.js + Express.js & PostgreSQL
-                or Firebase/Firestore!
+            <p class="text-base sm:text-lg md:text-xl">https://www.manim.community/
+                My favorite tech includes <span class="text-green-400"><a href="https://www.manim.community/">  Manim</a></span>, <span class="text-green-400"><a href="https://svelte.dev/">  Svelte</a></span>, <span class="text-green-400"><a href="https://www.pygame.org/news">  Pygame</a></span>, & <span class="text-green-400"><a href="https://www.tensorflow.org/">  Tensorflow</a></span>!
             </p>
             <button
                 class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-white text-slate-950"
             >
                 <div
-                    class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"
+                    class="absolute top-0 right-full w-full h-full bg-green-400 opacity-20 group-hover:translate-x-full z-0 duration-500"
                 />
                 <h4 class="relative z-9">Get in touch &rarr;</h4>
             </button>
@@ -81,7 +79,7 @@
                 class="absolute inset-0 overflow-hidden rounded-md flex items-center justify-center"
             >
                 <div
-                    class="bg-gradient-to-r absolute inset-[-20px]  from-violet-800 to-indigo-800 specialSpin"
+                    class="bg-gradient-to-r absolute inset-[-20px]  from-green-800 to-indigo-800 specialSpin"
                 />
             </div>
 
@@ -98,22 +96,14 @@
                 A few of my creative endeavors.
             </h6>
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-                Curious to <span class="poppins text-violet-400">see</span> my work?
+                Curious to <span class="poppins text-green-400">see</span> my work?
             </h3>
         </div>
-        <a
-            href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-            target="_blank"
-            class="mx-auto px-4 py-2 rounded-md border border-solid border-white flex items-center gap-2 -mb-4 sm:-mb-0 -mt-10 hover:border-violet-700 duration-200"
-        >
-            <i class="fa-regular fa-circle-play" />
-            <p>Watch the video</p>
-        </a>
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
                 <p>
                     Smoljames Store is a a merchanising store created with <strong
-                        class="text-violet-400"
+                        class="text-green-400"
                         >Next.js, Commerce.js, Stripe & Node.js + Express.js!</strong
                     > Commerce.js is a product CMS and Stripe is used for all transaction
                     handling.
@@ -122,24 +112,24 @@
             <Step step={steps[1]}>
                 <p>
                     Ultimate Todos is a Full Stack <strong
-                        class="text-violet-400">Next.js</strong
+                        class="text-green-400">Next.js</strong
                     >,
-                    <strong class="text-violet-400">Node.js + Express.js</strong
+                    <strong class="text-green-400">Node.js + Express.js</strong
                     >
-                    & <strong class="text-violet-400">Firebase</strong> CRUD application
+                    & <strong class="text-green-400">Firebase</strong> CRUD application
                     that allows a user to login, manage a tidy and efficacious todo
                     list, and persist this information across devices.
                 </p>
             </Step>
             <Step step={steps[2]}>
                 <p>
-                    The Pokédex is a <strong class="text-violet-400"
+                    The Pokédex is a <strong class="text-green-400"
                         >SvelteKit & TailwindCSS</strong
                     >
                     web application, hosted on
-                    <strong class="text-violet-400">Netlify</strong>, that
+                    <strong class="text-green-400">Netlify</strong>, that
                     consumes and caches the
-                    <strong class="text-violet-400">Pokémon API</strong>
+                    <strong class="text-green-400">Pokémon API</strong>
                     to display all Pokémon information. Gotta catch them all!
                 </p>
             </Step>
@@ -149,15 +139,15 @@
         id="about"
         class="py-20 pt-10 lg:pt-16 lg:py-32 flex flex-col gap-16 sm:gap-20 md:gap-24 relative"
     >
-        <!-- <div class="z-[-1] bg-violet-950 w-screen left-1/2 -translate-x-1/2 top-0 h-full absolute"> </div> -->
+        <!-- <div class="z-[-1] bg-green-950 w-screen left-1/2 -translate-x-1/2 top-0 h-full absolute"> </div> -->
         <div
-            class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-violet-700 after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-violet-700 py-4"
+            class="flex flex-col gap-2 text-center relative before:absolute before:top-0 before:left-0 before:w-2/3 before:h-1.5 before:bg-green-700 after:absolute after:bottom-0 after:right-0 after:w-2/3 after:h-1.5 after:bg-green-700 py-4"
         >
             <h6 class="text-large sm:text-xl md:text-2xl">
                 Want to know more?
             </h6>
             <h3 class="font-semibold text-3xl sm:text-4xl md:text-5xl">
-                A bit <span class="poppins text-violet-400">about</span> me.
+                A bit <span class="poppins text-green-400">about</span> me.
             </h3>
         </div>
         <p class="mx-auto poppins font-semibold text-lg sm:text-xl md:text-2xl">
@@ -196,7 +186,7 @@
             {/each}
         </div>
         <h5 class={" text-2xl sm:text-3xl font-semibold text-center poppins "}>
-            The <span class="text-violet-400">Complete</span> Package
+            The <span class="text-green-400">Complete</span> Package
         </h5>
         <div
             class="flex flex-col overflow-x-scroll gap-10 max-w-[800px] mx-auto w-full"
@@ -209,7 +199,7 @@
                         <th class="whitespace-nowrap p-2 px-4">Candidate #2</th>
                         <th class="whitespace-nowrap p-2 px-4">Candidate #3</th>
                         <th
-                            class="bg-violet-700 text-white whitespace-nowrap p-4 px-8"
+                            class="bg-green-700 text-white whitespace-nowrap p-4 px-8"
                             >Me</th
                         >
                     </tr>
