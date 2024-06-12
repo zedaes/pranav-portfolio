@@ -17,11 +17,12 @@
         </div>
         <p class="mx-auto text-sm opacity-70">or</p>
         <p class="">Hugh_jass@gmail.com</p> -->
-        <p><b class="pr-2">Email</b> pranavg.1729@protonmail.com</p>
+        <p><b class="pr-2">Email</b> fill this out</p>
         <p>
             <b class="pr-2">GitHub</b>
             <a href=" " target="_blank" class="text-green-400"
-                >samuel_oak<sup class=""
+                ><a href="https://github.com/zedaes">zedaes</a>
+                <sup class=""
                     ><span class="text-xs scale-75 pl-0.5"
                         ><i
                             class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
@@ -30,17 +31,6 @@
                 ></a
             >
         </p>
-        <p>
-            <b class="pr-2">LinkedIn</b>
-            <a href=" " target="_blank" class="text-green-400"
-                >pranav_gundu<sup class=""
-                    ><span class="text-xs scale-75 pl-0.5"
-                        ><i
-                            class="fa-solid fa-arrow-up-right-from-square text-xs scale-[75%]"
-                        /></span
-                    ></sup
-                ></a
-            >
-        </p>
+        
     </div>
 </footer>
