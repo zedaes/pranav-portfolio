@@ -3,7 +3,7 @@
 
     export let tabs = [
         { name: "Projects ", link: "#projects" },
-        { name: "About me", link: "#about" },
+        { name: "About Me", link: "#about" },
         { name: "Blog", link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
         // { name: "Contact", link: "" },
         // {name: '', link: ''},
@@ -13,7 +13,7 @@
 <header
     class={"sticky z-[10] top-0 duration-500 px-6 flex items-center justify-between border-b border-solid " +
         (y > 0
-            ? " py-4 bg-transparent border-transparent"
+            ? " py-4 bg-transparent border-white"
             : " py-6 bg-transparent border-transparent")}
 >
     <h1 class="font-medium">
