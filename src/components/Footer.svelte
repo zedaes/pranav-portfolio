@@ -17,7 +17,7 @@
         </div>
         <p class="mx-auto text-sm opacity-70">or</p>
         <p class="">Hugh_jass@gmail.com</p> -->
-        <p><b class="pr-2">Email</b> fill this out</p>
+        <p><b class="pr-2">Email</b> thezedaes@gmail.com</p>
         <p>
             <b class="pr-2">GitHub</b>
             <a href=" " target="_blank" class="text-green-400"
